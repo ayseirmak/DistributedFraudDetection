@@ -17,6 +17,7 @@ The ORCA Context object encapsulates the Spark Context and Ray Context Objects. 
 Orca-estimator object encapsulates the necessary methods for training and inference of models created on different frameworks such as Tensorflow, Pytorch,
 Spark.In this way, framework independent, orca-estimator.fit() and orca-estimator.predict()
 methods can be used.
+
 <img width="443" alt="image" src="https://github.com/ayseirmak/DistributedFraudDetection/assets/152956281/7131158b-f832-4152-b888-e43c7c89877b">
 
 ### Graph Convolutional Networks
